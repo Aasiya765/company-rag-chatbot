@@ -195,7 +195,9 @@ def format_size(size_bytes):
 with st.sidebar:
     st.markdown('<div class="sidebar-section-title">⚙️ Setup</div>', unsafe_allow_html=True)
 
-    api_key = os.getenv("GOOGLE_API_KEY", "")
+    # Reads from Streamlit Cloud's Secrets manager first (production),
+    # falling back to a local .env value (local development).
+    api_key = st.secrets.get("GOOGLE_API_KEY", os.getenv("GOOGLE_API_KEY", ""))
     api_key_input = st.text_input(
         "Google (Gemini) API Key",
         value=api_key,
