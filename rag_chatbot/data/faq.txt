@@ -1,0 +1,50 @@
+FREQUENTLY ASKED QUESTIONS — NORTHWIND TECH SOLUTIONS
+
+Q: How do I request time off?
+A: Submit a request through the HR Portal under "Leave Requests." Your
+manager will be notified automatically and must approve it within 3 business
+days.
+
+Q: Who do I contact for IT issues?
+A: Open a ticket at helpdesk.northwindtech.example or email
+it-support@northwindtech.example. For urgent issues, call the IT hotline at
+extension 4400.
+
+Q: How do I reset my company password?
+A: Go to the Single Sign-On portal and click "Forgot Password." You will
+receive a reset link on your registered company email. Passwords must be at
+least 12 characters and changed every 90 days.
+
+Q: What is the process for expense reimbursement?
+A: Log into the Expense Portal, upload your receipts, categorize the expense,
+and submit for manager approval. Reimbursements are processed within 10
+business days of approval.
+
+Q: Can I work from home permanently?
+A: Fully remote arrangements are evaluated on a case-by-case basis and
+require approval from both your manager and HR. The standard policy allows
+up to 2 remote days per week without special approval.
+
+Q: How do I enroll in health benefits?
+A: New employees have 30 days from their start date to enroll in health
+benefits through the Benefits Portal. After this window, enrollment is only
+possible during the annual open enrollment period or after a qualifying life
+event.
+
+Q: Where can I find the employee handbook?
+A: The full employee handbook is available on the internal wiki under
+Company > HR > Handbook.
+
+Q: Who approves new software purchases?
+A: Software purchases under $200/year can be approved by your direct
+manager. Purchases above that amount require approval from the department
+head and a review by IT Security.
+
+Q: How do I report a workplace concern?
+A: You can email hr@northwindtech.example, speak to your manager, or use the
+anonymous ethics hotline listed on the HR portal homepage.
+
+Q: What is the notice period for resignation?
+A: The standard notice period is 4 weeks for individual contributors and 8
+weeks for managers and above, unless otherwise specified in your employment
+contract.

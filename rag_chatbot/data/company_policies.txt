@@ -1,0 +1,59 @@
+COMPANY POLICIES — NORTHWIND TECH SOLUTIONS
+
+1. WORK HOURS
+Standard work hours are Monday to Friday, 9:00 AM to 6:00 PM, with a one-hour
+lunch break. Employees may request flexible start times between 7:30 AM and
+10:00 AM with manager approval.
+
+2. REMOTE WORK POLICY
+Employees are permitted to work remotely up to 2 days per week. Requests for
+additional remote days must be approved by the department head. All remote
+employees must be reachable via Slack and email during core hours (10 AM–4 PM).
+
+3. LEAVE POLICY
+- Annual Leave: 20 paid days per year, accrued monthly.
+- Sick Leave: 10 paid days per year. A medical certificate is required for
+  absences longer than 2 consecutive days.
+- Parental Leave: 16 weeks paid leave for primary caregivers, 4 weeks for
+  secondary caregivers.
+- Unused annual leave can be carried over up to a maximum of 5 days into the
+  next calendar year.
+
+4. EXPENSE REIMBURSEMENT
+Employees must submit expense claims through the internal Expense Portal
+within 30 days of the expense being incurred. Claims must include original
+receipts. Reimbursable categories include travel, client meals (up to $75 per
+person), and approved software subscriptions.
+
+5. IT & SECURITY POLICY
+All company laptops must have full-disk encryption and the company VPN client
+installed. Passwords must be changed every 90 days and must be at least 12
+characters long. Two-factor authentication is mandatory for all company
+accounts, including email and the HR portal.
+
+6. CODE OF CONDUCT
+Employees are expected to treat colleagues, clients, and partners with
+respect and professionalism. Harassment, discrimination, or retaliation of
+any kind will not be tolerated and should be reported to HR immediately via
+hr@northwindtech.example or the anonymous ethics hotline.
+
+7. PERFORMANCE REVIEWS
+Performance reviews are conducted twice a year, in June and December. Reviews
+include a self-assessment, manager assessment, and peer feedback (360-degree
+review) for employees at the senior level and above.
+
+8. EQUIPMENT POLICY
+New employees receive a standard equipment kit: laptop, monitor, keyboard,
+mouse, and headset. Equipment requests outside the standard kit require
+manager approval and must be submitted through the IT Helpdesk portal.
+
+9. TRAVEL POLICY
+Domestic flights should be booked in economy class. International flights
+longer than 6 hours may be booked in premium economy. All travel must be
+booked through the approved corporate travel agency, TravelWise Corporate.
+
+10. OFFBOARDING
+Departing employees must return all company equipment within 5 business days
+of their last working day. IT access is revoked at 6:00 PM on the last working
+day. A final paycheck, including any accrued and unused leave, is issued
+within 2 pay cycles.

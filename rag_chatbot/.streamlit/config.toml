@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#5E6AD2" # A modern, vibrant indigo/blue similar to Linear/Notion accents
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F8FA" # Soft off-white for sidebar
+textColor = "#1F2328" # Soft black for good contrast without being harsh
+font = "sans serif" # Maps to system fonts like Inter/San Francisco
+
+[client]
+# Allows the user to toggle light/dark mode natively
+toolbarMode = "minimal"
